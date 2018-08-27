@@ -1,6 +1,28 @@
-[
-  { id: 1, name: 'Elias', avatarUrl: 'https://res.cloudinary.com/magiccoder/image/upload/v1535372304/team_nero/a_elias.png', description: 'NO', role: 'Programmleitung'  },
-  { id: 2, name: 'Tim', avatarUrl: 'https://res.cloudinary.com/magiccoder/image/upload/v1535372387/team_nero/a_tim.png', description: 'NO', role: 'Programmleitung'  },
-  { id: 3, name: 'Nico', avatarUrl: 'https://res.cloudinary.com/magiccoder/image/upload/v1535372442/team_nero/a_nico.png', description: 'NO', role: 'Stellv. Programmleitung'  },
-  { id: 4, name: 'Johannes', avatarUrl: 'https://res.cloudinary.com/magiccoder/image/upload/v1535372511/team_nero/a_johannes.png', description: 'NO', role: 'Entwicklung'  },
-   ]
+[{
+		"id": 1,
+		"name": "Elias",
+		"avatarUrl": "https://res.cloudinary.com/magiccoder/image/upload/v1535372304/team_nero/a_elias.png",
+		"description": "NO",
+		"role": "Programmleitung"
+	},
+	{
+		"id": 2,
+		"name": "Tim",
+		"avatarUrl": "https://res.cloudinary.com/magiccoder/image/upload/v1535372387/team_nero/a_tim.png",
+		"description": "NO",
+		"role": "Programmleitung"
+	},
+	{
+		"id": 3,
+		"name": "Nico",
+		"avatarUrl": "https://res.cloudinary.com/magiccoder/image/upload/v1535372442/team_nero/a_nico.png",
+		"description": "NO",
+		"role": "Stellv. Programmleitung"
+	},
+	{
+		"id": 4,
+		"name": "Johannes",
+		"avatarUrl": "https://res.cloudinary.com/magiccoder/image/upload/v1535372511/team_nero/a_johannes.png",
+		"description": "NO",
+		"role": "Entwicklung"
+	}]
